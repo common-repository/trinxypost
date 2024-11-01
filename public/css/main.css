@@ -1,0 +1,650 @@
+.trinxy-instagram-posts img {
+  vertical-align: top !important;
+}
+/*extra large */
+
+.trinxy-instagram-posts-gallery-extra-large {
+  display: flex;
+  flex-wrap: wrap;
+	justify-content: space-between;
+	display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+	display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+	display: -ms-flexbox;      /* TWEENER - IE 10 */
+	display: -webkit-flex;     /* NEW - Chrome */
+}
+
+.trinxy-instagram-posts-gallery-extra-large > div {
+  flex: 0 100%;
+  box-sizing: border-box;
+}
+.trinxy-gallery-extra-large img {
+  margin: 10px 0;
+  width: 100%;
+}
+
+/* Large */
+.trinxy-instagram-posts-gallery-large {
+  display: flex;
+  flex-wrap: wrap;
+	justify-content: space-evenly;
+	display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+	display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+	display: -ms-flexbox;      /* TWEENER - IE 10 */
+	display: -webkit-flex;     /* NEW - Chrome */
+}
+
+.trinxy-instagram-posts-gallery-large > div {
+  flex: 0 49%;
+  box-sizing: border-box;
+}
+.trinxy-gallery-large img {
+  margin: 10px 0;
+}
+
+/* medium */
+.trinxy-instagram-posts-gallery-medium {
+  display: flex;
+  flex-wrap: wrap;
+	justify-content: space-evenly;
+	display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+	display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+	display: -ms-flexbox;      /* TWEENER - IE 10 */
+	display: -webkit-flex;     /* NEW - Chrome */
+}
+
+.trinxy-instagram-posts-gallery-medium > div {
+  flex: 0 32%;
+  box-sizing: border-box;
+}
+.trinxy-gallery-medium img {
+  margin: 10px 0;
+}
+
+/* small */
+.trinxy-instagram-posts-gallery-small {
+  display: flex;
+  flex-wrap: wrap;
+	justify-content: space-evenly;
+	display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+	display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+	display: -ms-flexbox;      /* TWEENER - IE 10 */
+	display: -webkit-flex;     /* NEW - Chrome */
+}
+
+.trinxy-instagram-posts-gallery-small > div {
+  flex: 0 24%;
+  box-sizing: border-box;
+}
+.trinxy-gallery-small img {
+  margin: 5px 0;
+}
+
+/* extra small */
+.trinxy-instagram-posts-gallery-extra-small {
+  display: flex;
+  flex-wrap: wrap;
+	justify-content: space-evenly;
+	display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+	display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+	display: -ms-flexbox;      /* TWEENER - IE 10 */
+	display: -webkit-flex;     /* NEW - Chrome */
+}
+
+.trinxy-instagram-posts-gallery-extra-small > div {
+  flex: 0 19%;
+  box-sizing: border-box;
+}
+.trinxy-gallery-extra-small img {
+  margin: 5px 0;
+}
+
+/* Full post */
+/* extra large */
+.trinxy-instagram-posts-extra-large {
+  display: flex;
+  flex-wrap: wrap;
+	justify-content: space-between;
+	display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+	display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+	display: -ms-flexbox;      /* TWEENER - IE 10 */
+	display: -webkit-flex;     /* NEW - Chrome */
+}
+
+.trinxy-instagram-posts-extra-large > div {
+  flex: 0 100%;
+  box-sizing: border-box;
+}
+.trinxy-instagram-posts-extra-large iframe {
+  margin: 10px 0;
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+/* Large */
+
+.trinxy-instagram-posts-large {
+  display: flex;
+  flex-wrap: wrap;
+	justify-content: space-between;
+	display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+	display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+	display: -ms-flexbox;      /* TWEENER - IE 10 */
+	display: -webkit-flex;     /* NEW - Chrome */
+}
+
+.trinxy-instagram-posts-large > div {
+  flex: 0 49%;
+  box-sizing: border-box;
+}
+.trinxy-instagram-posts-large iframe {
+  margin: 10px 0;
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: auto !important;
+}
+
+/* medium */
+
+.trinxy-instagram-posts-medium {
+  display: flex;
+  flex-wrap: wrap;
+	justify-content: space-between;
+	display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+	display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+	display: -ms-flexbox;      /* TWEENER - IE 10 */
+	display: -webkit-flex;     /* NEW - Chrome */
+}
+
+.trinxy-instagram-posts-medium > div {
+  flex: 0 32%;
+	box-sizing: border-box;
+
+}
+.trinxy-instagram-posts-medium iframe {
+  margin: 10px 0;
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: auto !important;
+}
+
+/* small */
+
+.trinxy-instagram-posts-small {
+  display: flex;
+  flex-wrap: wrap;
+	justify-content: space-between;
+	display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+	display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+	display: -ms-flexbox;      /* TWEENER - IE 10 */
+	display: -webkit-flex;     /* NEW - Chrome */
+}
+
+.trinxy-instagram-posts-small > div {
+  flex: 0 24%;
+	box-sizing: border-box;
+}
+.trinxy-instagram-posts-small iframe {
+  margin: 5px 0;
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: auto !important;
+}
+
+/* extra small */
+
+.trinxy-instagram-posts-extra-small {
+  display: flex;
+  flex-wrap: wrap;
+	justify-content: space-between;
+	display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+	display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+	display: -ms-flexbox;      /* TWEENER - IE 10 */
+	display: -webkit-flex;     /* NEW - Chrome */
+}
+
+.trinxy-instagram-posts-extra-small > div {
+  flex: 0 19%;
+	box-sizing: border-box;
+
+}
+.trinxy-instagram-posts-extra-small iframe {
+  margin: 5px 0;
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: auto !important;
+}
+
+/* Comment and autor post */
+/* extra large */
+.trinxy-instagram-posts-extra-large2 {
+  display: flex;
+  flex-wrap: wrap;
+	justify-content: space-between;
+	display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+	display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+	display: -ms-flexbox;      /* TWEENER - IE 10 */
+	display: -webkit-flex;     /* NEW - Chrome */
+}
+
+.trinxy-instagram-posts-extra-large2 > div {
+  flex: 0 100%;
+	box-sizing: border-box;
+}
+.trinxy-instagram-posts-extra-large2 iframe {
+  margin: 10px 0;
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+/* Large */
+
+.trinxy-instagram-posts-large2 {
+  display: flex;
+  flex-wrap: wrap;
+	justify-content: space-between;
+	display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+	display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+	display: -ms-flexbox;      /* TWEENER - IE 10 */
+	display: -webkit-flex;     /* NEW - Chrome */
+}
+
+.trinxy-instagram-posts-large2 > div {
+  flex: 0 49%;
+	box-sizing: border-box;
+
+}
+.trinxy-instagram-posts-large2 iframe {
+  margin: 10px 0;
+  width: 49% !important;
+  max-width: 100% !important;
+  min-width: auto !important;
+}
+
+/* medium */
+
+.trinxy-instagram-posts-medium2 {
+  display: flex;
+  flex-wrap: wrap;
+	justify-content: space-between;
+	display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+	display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+	display: -ms-flexbox;      /* TWEENER - IE 10 */
+	display: -webkit-flex;     /* NEW - Chrome */
+}
+
+.trinxy-instagram-posts-medium2 > div {
+  flex: 0 32%;
+  box-sizing: border-box;
+}
+.trinxy-instagram-posts-medium2 iframe {
+  margin: 10px 0;
+  width: 32% !important;
+  max-width: 100% !important;
+  min-width: auto !important;
+}
+
+/* small */
+
+.trinxy-instagram-posts-small2 {
+  display: flex;
+  flex-wrap: wrap;
+	justify-content: space-between;
+	display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+	display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+	display: -ms-flexbox;      /* TWEENER - IE 10 */
+	display: -webkit-flex;     /* NEW - Chrome */
+}
+
+.trinxy-instagram-posts-small2 > div {
+  flex: 0 24%;
+  box-sizing: border-box;
+}
+.trinxy-instagram-posts-small2 iframe {
+  margin: 5px 0;
+  width: 24% !important;
+  max-width: 100% !important;
+  min-width: auto !important;
+}
+
+/* extra small */
+
+.trinxy-instagram-posts-extra-small2 {
+  display: flex;
+  flex-wrap: wrap;
+	justify-content: space-between;
+	display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+	display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+	display: -ms-flexbox;      /* TWEENER - IE 10 */
+	display: -webkit-flex;     /* NEW - Chrome */
+}
+
+.trinxy-instagram-posts-extra-small2 > div {
+  flex: 0 19%;
+  box-sizing: border-box;
+}
+.trinxy-instagram-posts-extra-small2 iframe {
+  margin: 5px 0;
+  width: 19% !important;
+  max-width: 100% !important;
+  min-width: auto !important;
+}
+
+/* Media queries */
+
+@media screen and (max-width: 1100px) {
+  .trinxy-instagram-posts-gallery-extra-small > div {
+    flex: 0 32%;
+  }
+  .trinxy-gallery-extra-small img {
+    margin: 10px 0;
+  }
+
+  /* Full post */
+
+  /* extra small */
+  .trinxy-instagram-posts-extra-small > div {
+    flex: 0 32%;
+  }
+  .trinxy-instagram-posts-extra-small iframe {
+    margin: 10px 0;
+    width: 100% !important;
+  }
+
+  /* Comment and autor post */
+
+  /* extra small */
+
+  .trinxy-instagram-posts-extra-small2 > div {
+    flex: 0 32%;
+  }
+  .trinxy-instagram-posts-extra-small2 iframe {
+    margin: 10px 0;
+    width: 32% !important;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  /* small */
+
+  .trinxy-instagram-posts-gallery-small > div {
+    flex: 0 49%;
+  }
+  .trinxy-gallery-small img {
+    margin: 10px 0;
+  }
+
+  .trinxy-instagram-posts-gallery-extra-small > div {
+    flex: 0 49%;
+  }
+  .trinxy-gallery-extra-small img {
+    margin: 10px 0;
+  }
+
+  /* Full post */
+
+  /* small */
+
+  .trinxy-instagram-posts-small > div {
+    flex: 0 49%;
+  }
+  .trinxy-instagram-posts-small iframe {
+    margin: 10px 0;
+  }
+
+  /* extra small */
+  .trinxy-instagram-posts-extra-small > div {
+    flex: 0 49%;
+  }
+  .trinxy-instagram-posts-extra-small iframe {
+    margin: 10px 0;
+    width: 100% !important;
+  }
+
+  /* Comment and autor post */
+
+  /* small */
+
+  .trinxy-instagram-posts-small2 > div {
+    flex: 0 49%;
+  }
+  .trinxy-instagram-posts-small2 iframe {
+    margin: 10px 0;
+    width: 49% !important;
+  }
+
+  /* extra small */
+
+  .trinxy-instagram-posts-extra-small2 > div {
+    flex: 0 49%;
+  }
+  .trinxy-instagram-posts-extra-small2 iframe {
+    margin: 10px 0;
+    width: 49% !important;
+  }
+}
+
+@media screen and (max-width: 670px) {
+  /* Large */
+  .trinxy-instagram-posts-gallery-large > div {
+    flex: 0 49%;
+  }
+  .trinxy-gallery-large img {
+    margin: 10px 0;
+  }
+
+  /* medium */
+
+  .trinxy-instagram-posts-gallery-medium > div {
+    flex: 0 49%;
+  }
+  .trinxy-gallery-medium img {
+    margin: 10px 0;
+  }
+  /* small */
+
+  .trinxy-instagram-posts-gallery-small > div {
+    flex: 0 49%;
+  }
+  .trinxy-gallery-small img {
+    margin: 10px 0;
+  }
+
+  .trinxy-instagram-posts-gallery-extra-small > div {
+    flex: 0 49%;
+  }
+  .trinxy-gallery-extra-small img {
+    margin: 10px 0;
+  }
+
+  /* Full post */
+
+  /* Large */
+
+  .trinxy-instagram-posts-large > div {
+    flex: 0 49%;
+  }
+
+  .trinxy-instagram-posts-large iframe {
+    margin: 10px 0;
+  }
+  /* medium */
+
+  .trinxy-instagram-posts-medium > div {
+    flex: 0 49%;
+  }
+  .trinxy-instagram-posts-medium iframe {
+    margin: 10px 0;
+  }
+
+  /* small */
+
+  .trinxy-instagram-posts-small > div {
+    flex: 0 49%;
+  }
+  .trinxy-instagram-posts-small iframe {
+    margin: 10px 0;
+  }
+
+  /* extra small */
+  .trinxy-instagram-posts-extra-small > div {
+    flex: 0 49%;
+  }
+  .trinxy-instagram-posts-extra-small iframe {
+    margin: 10px 0;
+    width: 100% !important;
+  }
+
+  /* Comment and autor post */
+
+  /* Large */
+
+  .trinxy-instagram-posts-large2 > div {
+    flex: 0 49%;
+  }
+  .trinxy-instagram-posts-large2 iframe {
+    width: 49% !important;
+  }
+
+  /* medium */
+
+  .trinxy-instagram-posts-medium2 > div {
+    flex: 0 49%;
+  }
+  .trinxy-instagram-posts-medium2 iframe {
+    margin: 10px 0;
+    width: 49% !important;
+  }
+
+  /* small */
+
+  .trinxy-instagram-posts-small2 > div {
+    flex: 0 49%;
+  }
+  .trinxy-instagram-posts-small2 iframe {
+    margin: 10px 0;
+    width: 49% !important;
+  }
+
+  /* extra small */
+
+  .trinxy-instagram-posts-extra-small2 > div {
+    flex: 0 49%;
+  }
+  .trinxy-instagram-posts-extra-small2 iframe {
+    margin: 10px 0;
+    width: 49% !important;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  /* Large */
+  .trinxy-instagram-posts-gallery-large > div {
+    flex: 0 100%;
+  }
+  .trinxy-gallery-large img {
+    margin: 10px 0;
+  }
+
+  /* medium */
+
+  .trinxy-instagram-posts-gallery-medium > div {
+    flex: 0 100%;
+  }
+  .trinxy-gallery-medium img {
+    margin: 10px 0;
+  }
+  /* small */
+
+  .trinxy-instagram-posts-gallery-small > div {
+    flex: 0 100%;
+  }
+  .trinxy-gallery-small img {
+    margin: 10px 0;
+  }
+
+  .trinxy-instagram-posts-gallery-extra-small > div {
+    flex: 0 100%;
+  }
+  .trinxy-gallery-extra-small img {
+    margin: 10px 0;
+  }
+
+  /* Full post */
+
+  /* Large */
+
+  .trinxy-instagram-posts-large > div {
+    flex: 0 100%;
+  }
+
+  .trinxy-instagram-posts-large iframe {
+    margin: 10px 0;
+  }
+  /* medium */
+
+  .trinxy-instagram-posts-medium > div {
+    flex: 0 100%;
+  }
+  .trinxy-instagram-posts-medium iframe {
+    margin: 10px 0;
+  }
+
+  /* small */
+
+  .trinxy-instagram-posts-small > div {
+    flex: 0 100%;
+  }
+  .trinxy-instagram-posts-small iframe {
+    margin: 10px 0;
+  }
+
+  /* extra small */
+  .trinxy-instagram-posts-extra-small > div {
+    flex: 0 100%;
+  }
+  .trinxy-instagram-posts-extra-small iframe {
+    margin: 10px 0;
+    width: 100% !important;
+  }
+
+  /* Comment and autor post */
+
+  /* Large */
+
+  .trinxy-instagram-posts-large2 > div {
+    flex: 0 100%;
+  }
+  .trinxy-instagram-posts-large2 iframe {
+    width: 100% !important;
+  }
+
+  /* medium */
+
+  .trinxy-instagram-posts-medium2 > div {
+    flex: 0 100%;
+  }
+  .trinxy-instagram-posts-medium2 iframe {
+    margin: 10px 0;
+    width: 100% !important;
+  }
+
+  /* small */
+
+  .trinxy-instagram-posts-small2 > div {
+    flex: 0 100%;
+  }
+  .trinxy-instagram-posts-small2 iframe {
+    margin: 10px 0;
+    width: 100% !important;
+  }
+
+  /* extra small */
+
+  .trinxy-instagram-posts-extra-small2 > div {
+    flex: 0 100%;
+  }
+  .trinxy-instagram-posts-extra-small2 iframe {
+    margin: 10px 0;
+    width: 100% !important;
+  }
+}
